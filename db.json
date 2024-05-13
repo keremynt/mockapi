@@ -1,0 +1,110 @@
+{
+    "Kategoriler": [
+        {
+            "durum": true,
+            "mesaj": "\u0130\u015flem Ba\u015far\u0131l\u0131",
+            "Categories": [
+                {
+                    "CatogryId": "1899",
+                    "TopCatogryId": "0",
+                    "CatogryName": "TRAKTORLER"
+                },
+                {
+                    "CatogryId": "1900",
+                    "TopCatogryId": "0",
+                    "CatogryName": "GUBRELER"
+                },
+                {
+                    "CatogryId": "1901",
+                    "TopCatogryId": "0",
+                    "CatogryName": "ILAÇLAR"
+                },
+                {
+                    "CatogryId": "1902",
+                    "TopCatogryId": "0",
+                    "CatogryName": "MIBZERLER"
+                },
+                {
+                    "CatogryId": "1903",
+                    "TopCatogryId": "0",
+                    "CatogryName": "KOTENLER"
+                },
+                {
+                    "CatogryId": "1904",
+                    "TopCatogryId": "1899",
+                    "CatogryName": "Bilgisayar"
+                },
+                {
+                    "CatogryId": "1905",
+                    "TopCatogryId": "1899",
+                    "CatogryName": "Cep Telefonu"
+                },
+                {
+                    "CatogryId": "1906",
+                    "TopCatogryId": "1899",
+                    "CatogryName": "Tablet"
+                },
+                {
+                    "CatogryId": "1907",
+                    "TopCatogryId": "1900",
+                    "CatogryName": "Mobilyalar"
+                },
+                {
+                    "CatogryId": "1908",
+                    "TopCatogryId": "1900",
+                    "CatogryName": "Mutfak \u00dcr\u00fcnleri"
+                },
+                {
+                    "CatogryId": "1909",
+                    "TopCatogryId": "1900",
+                    "CatogryName": "Banyo"
+                },
+                {
+                    "CatogryId": "1910",
+                    "TopCatogryId": "1899",
+                    "CatogryName": "Ak\u0131ll\u0131 Saatler"
+                },
+                {
+                    "CatogryId": "1911",
+                    "TopCatogryId": "1901",
+                    "CatogryName": "Kediler"
+                },
+                {
+                    "CatogryId": "1912",
+                    "TopCatogryId": "1901",
+                    "CatogryName": "K\u00f6pekler"
+                },
+                {
+                    "CatogryId": "1913",
+                    "TopCatogryId": "1901",
+                    "CatogryName": "Ku\u015flar"
+                },
+                {
+                    "CatogryId": "1914",
+                    "TopCatogryId": "1903",
+                    "CatogryName": "Edebiyat"
+                },
+                {
+                    "CatogryId": "1915",
+                    "TopCatogryId": "1903",
+                    "CatogryName": "Ders Kitaplar\u0131"
+                },
+                {
+                    "CatogryId": "1916",
+                    "TopCatogryId": "1902",
+                    "CatogryName": "Makyaj"
+                },
+                {
+                    "CatogryId": "1917",
+                    "TopCatogryId": "1902",
+                    "CatogryName": "Cilt Bak\u0131m\u0131"
+                },
+                {
+                    "CatogryId": "1918",
+                    "TopCatogryId": "1902",
+                    "CatogryName": "Di\u015f Bak\u0131m\u0131"
+                }
+            ]
+        }
+    ]
+}
