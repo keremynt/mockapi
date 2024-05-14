@@ -60,24 +60,19 @@
                     "CatogryName": "Sıvı Gubreler"
                 },
                 {
-                    "CatogryId": "1910",
-                    "TopCatogryId": "1899",
-                    "CatogryName": "Sırt Deposuna"
-                },
-                {
                     "CatogryId": "1911",
                     "TopCatogryId": "1901",
-                    "CatogryName": "Drone'a"
+                    "CatogryName": "Yabancı Ot İlaçları"
                 },
                 {
                     "CatogryId": "1912",
                     "TopCatogryId": "1901",
-                    "CatogryName": "K\u00f6pekler"
+                    "CatogryName": "Böcek Öldürücü İlaçlar"
                 },
                 {
                     "CatogryId": "1913",
                     "TopCatogryId": "1901",
-                    "CatogryName": "Ku\u015flar"
+                    "CatogryName": "Mantar İlaçları"
                 },
                 {
                     "CatogryId": "1914",
@@ -92,17 +87,17 @@
                 {
                     "CatogryId": "1916",
                     "TopCatogryId": "1902",
-                    "CatogryName": "Makyaj"
+                    "CatogryName": "Mısır Silajı"
                 },
                 {
                     "CatogryId": "1917",
                     "TopCatogryId": "1902",
-                    "CatogryName": "Cilt Bak\u0131m\u0131"
+                    "CatogryName": "Arpa"
                 },
                 {
                     "CatogryId": "1918",
                     "TopCatogryId": "1902",
-                    "CatogryName": "Di\u015f Bak\u0131m\u0131"
+                    "CatogryName": "Soya"
                 }
             ]
         }
