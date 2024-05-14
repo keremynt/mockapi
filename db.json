@@ -60,6 +60,11 @@
                     "CatogryName": "Sıvı Gubreler"
                 },
                 {
+                    "CatogryId": "1910",
+                    "TopCatogryId": "1899",
+                    "CatogryName": "Domates Tohumu"
+                },
+                {
                     "CatogryId": "1911",
                     "TopCatogryId": "1901",
                     "CatogryName": "Yabancı Ot İlaçları"
